@@ -3,7 +3,19 @@
 <div>
 
 <img align="right" width="400" alt="Shimarin" src="https://i.postimg.cc/fLywz8Xz/one-of-my-favourites-quotes.png"/>
+  
+<h2> / current skills / </h2>
+  
+- <h4> languages </h4>
+  <img src = "https://img.shields.io/badge/MATLAB-%23cb6015?style=for-the-badge&logo=MATLAB&logoColor=white&labelColor=%230376a7" alt = "Matlab">
+  <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "C#" />
+  <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "Java" />
 
+  
+  - <h5> currently learning </h5>
+    <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML" />
+    <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt = "CSS" />
+    <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "Python" />
 <h2> / about me /</h2>
   
 - 💻 Currently studying IT Engineering at **Escuela Politécnica Nacional**
@@ -20,19 +32,6 @@
   <a href = "https://www.instagram.com/jona07_07/">
   <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt = "Instagram"></a>
   
-<h2> / current skills / </h2>
-  
-- <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/MATLAB-%23cb6015?style=for-the-badge&logo=MATLAB&logoColor=white&labelColor=%230376a7" alt = "Matlab">
-  <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "C#" />
-  <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "Java" />
-
-  
-  - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML" />
-    <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt = "CSS" />
-    <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "Python" />
-
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt = "Canva" />
