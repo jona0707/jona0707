@@ -1,8 +1,8 @@
-<p align = center ><img src=https://i.postimg.cc/gJnh6qRs/Cabecera-Git-Hub.png"> </p>
+<p align = center ><img src=https://i.postimg.cc/nLcsmY75/Cabecera-Git-Hub200200.png"> </p>
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.postimg.cc/8CxZfzsf/Dos.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.postimg.cc/fLywz8Xz/one-of-my-favourites-quotes.png"/>
 
 <h2> / about me /</h2>
   
