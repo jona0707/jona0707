@@ -21,11 +21,20 @@
     <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML" />
     <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt = "CSS" />
     <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "Python" />
+    
+  - <h5> experience in </h5>
+    <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt = "Linux" />
+    <img src = "https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt = "Raspberry Pi" />
+    <img src = "https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt = "Cisco" />
+  
 <h2> / about me /</h2>
   
 - 💻 Currently studying IT Engineering at **Escuela Politécnica Nacional**
 - 🎬 Frankly lover and enthusiast about **cinema**, completly a movie buff.
 - 🎶 **Music** enjoyer, I can't program without it.
+
+
+    
 
   <h4>For cinema, music and photography respectively:</h4>
   <a href = "https://letterboxd.com/jonathanspr07/">
