@@ -19,12 +19,16 @@
     <img src = "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt = "HTML" />
     <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt = "CSS" />
     <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "Python" />
-    
+   
   - <h5> experience in </h5>
     <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt = "Linux" />
     <img src = "https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt = "Raspberry Pi" />
     <img src = "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt = "Arduino" />
     <img src = "https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt = "Cisco" />
+    
+  - <h5> designing tools </h5>
+    <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
+    <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt = "Canva" />
   
 <h2> / about me /</h2>
   
@@ -33,25 +37,18 @@
 - 🎬 Frankly lover and enthusiast about **cinema**, completly a movie buff.
 - 🎶 **Music** enjoyer, I can't program without it.
   
-  <h4>For cinema, photography and music respectively:</h4>
+  <h4>For cinema and music:</h4>
   <a href = "https://letterboxd.com/jonathanspr07/">
   <img src = "http://img.shields.io/badge/Letterboxd-009337?style=for-the-badge&logo=Letterboxd&logoColor=white" alt = "Letterboxd"></a>
-  
-  <a href = "https://www.instagram.com/jona07_07/">
-  <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt = "Instagram"></a>
-  
+    
   <a href = "https://open.spotify.com/user/12176241821?si=ef78df9800b743ef">
   <img src = "https://img.shields.io/badge/Spotify-009337?style=for-the-badge&logo=spotify&logoColor=white" alt = "Spotify"></a>
 
-  
-  
-- <h4> designing tools </h4>
-  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-  <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt = "Canva" />
-  
-  
 
-
+  
+<h2> / reach me /</h2>
+  <a href = "https://www.instagram.com/jona07_07/">
+  <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt = "Instagram"></a>
 
 
   </br></br>
