@@ -12,8 +12,6 @@
   <img src = "https://img.shields.io/badge/MATLAB-%23cb6015?style=for-the-badge&logo=MATLAB&logoColor=white&labelColor=%230376a7" alt = "Matlab">
   <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "C#" />
   <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "Java" />
-  
-  <img src = "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt = "Arduino" />
   <img src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt = "SQL" />
   
   
@@ -25,6 +23,7 @@
   - <h5> experience in </h5>
     <img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt = "Linux" />
     <img src = "https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt = "Raspberry Pi" />
+    <img src = "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt = "Arduino" />
     <img src = "https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" alt = "Cisco" />
   
 <h2> / about me /</h2>
