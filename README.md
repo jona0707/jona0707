@@ -47,8 +47,14 @@
 
   
 <h2> / reach me /</h2>
+  You can find me on: 
+  <a href = "mailto:jona07072000@gmail.com">
+  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "Gmail"></a>
+  
   <a href = "https://www.instagram.com/jona07_07/">
   <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt = "Instagram"></a>
+  
+  
 
 
   </br></br>
