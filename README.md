@@ -28,7 +28,7 @@
   
 <h2> / about me /</h2>
   
-- 💻 Currently studying IT Engineering at **Escuela Politécnica Nacional**
+- 💻 Currently studying IT Engineering at **Escuela Politécnica Nacional**.
 - 🔭 Working as a research assistant in teaching C language to **beginners**.
 - 🎬 Frankly lover and enthusiast about **cinema**, completly a movie buff.
 - 🎶 **Music** enjoyer, I can't program without it.
