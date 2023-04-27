@@ -29,12 +29,10 @@
 <h2> / about me /</h2>
   
 - 💻 Currently studying IT Engineering at **Escuela Politécnica Nacional**
+- 🔭 Working as a research assistant in teaching C language to **beginners**.
 - 🎬 Frankly lover and enthusiast about **cinema**, completly a movie buff.
 - 🎶 **Music** enjoyer, I can't program without it.
-
-
-    
-
+  
   <h4>For cinema, photography and music respectively:</h4>
   <a href = "https://letterboxd.com/jonathanspr07/">
   <img src = "http://img.shields.io/badge/Letterboxd-009337?style=for-the-badge&logo=Letterboxd&logoColor=white" alt = "Letterboxd"></a>
