@@ -35,15 +35,17 @@
 
     
 
-  <h4>For cinema, music and photography respectively:</h4>
+  <h4>For cinema, photography and music respectively:</h4>
   <a href = "https://letterboxd.com/jonathanspr07/">
   <img src = "http://img.shields.io/badge/Letterboxd-009337?style=for-the-badge&logo=Letterboxd&logoColor=white" alt = "Letterboxd"></a>
+  
+  <a href = "https://www.instagram.com/jona07_07/">
+  <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt = "Instagram"></a>
   
   <a href = "https://open.spotify.com/user/12176241821?si=ef78df9800b743ef">
   <img src = "https://img.shields.io/badge/Spotify-009337?style=for-the-badge&logo=spotify&logoColor=white" alt = "Spotify"></a>
 
-  <a href = "https://www.instagram.com/jona07_07/">
-  <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt = "Instagram"></a>
+  
   
 - <h4> designing tools </h4>
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
