@@ -37,7 +37,7 @@
 - 🎬 Frankly lover and enthusiast about **cinema**, completly a movie buff.
 - 🎶 **Music** enjoyer, I can't program without it.
   
-  <h4>For cinema and music:</h4>
+  <h4>for cinema and music:</h4>
   <a href = "https://letterboxd.com/jonathanspr07/">
   <img src = "http://img.shields.io/badge/Letterboxd-009337?style=for-the-badge&logo=Letterboxd&logoColor=white" alt = "Letterboxd"></a>
     
@@ -47,7 +47,8 @@
 
   
 <h2> / reach me /</h2>
-  You can find me on: 
+   
+  <h4>you can find me on:</h4>
   <a href = "mailto:jona07072000@gmail.com">
   <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt = "Gmail"></a>
   
