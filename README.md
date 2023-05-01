@@ -10,8 +10,8 @@
   
   <img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt = "C">
   <img src = "https://img.shields.io/badge/MATLAB-%23cb6015?style=for-the-badge&logo=MATLAB&logoColor=white&labelColor=%230376a7" alt = "Matlab">
-  <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "C#" />
   <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "Java" />
+  <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "C#" />
   <img src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt = "SQL" />
   
   
