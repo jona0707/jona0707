@@ -18,7 +18,7 @@
     <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "Java" />
     <img src = "https://img.shields.io/badge/mongodb-%2355ad47.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt = "MongoDB" />
     <img src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt = "SQL" />
-    
+
 
 <li>principiante / beginner</li>
     <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "Python" />
@@ -27,7 +27,6 @@
 <li>competente / competent</li>
     <img src="https://img.shields.io/badge/react-%231b2025.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express">
-
 
 <h3>herramientas / tools</h3>
 <li>competente / competent</li>
@@ -42,25 +41,20 @@
     <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt = "Canva" />
     <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   
-<h2> - acerca de mí / about me -</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;wrap:wrap">
-  <div style="width: 48%;">
-    <ul>
-      <li>💻 Actualmente estudiando Ingeniería en TI en la **Escuela Politécnica Nacional**.</li>
-      <li>🔭 Trabajando ocasionalmente como **desarrollador de software** para DIESLA.</li>
-      <li>🎬 Amante y entusiasta del **cine**, totalmente cinéfilo.</li>
-      <li>🎶 Disfruto la **música**, no puedo programar sin ella.</li>
-    </ul>
-  </div>
-  <div style="width: 48%;">
-    <ul>
-      <li>💻 Currently studying IT Engineering at **Escuela Politécnica Nacional**.</li>
-      <li>🔭 Working as an occasional **software developer** for DIESLA.</li>
-      <li>🎬 Frankly lover and enthusiast about **cinema**, completely a movie buff.</li>
-      <li>🎶 **Music** enjoyer, I can't program without it.</li>
-    </ul>
-  </div>
-</div>
+## - acerca de mí / about me -
+
+- 💻 Actualmente estudiando Ingeniería en TI en la **Escuela Politécnica Nacional.**
+  - 💻 Currently studying IT Engineering at **Escuela Politécnica Nacional.**
+
+- 🔭 Trabajando ocasionalmente como **desarrollador de software** para DIESLA.
+  - 🔭 Working as an occasional **software developer** for DIESLA.
+
+- 🎬 Amante y entusiasta del cine, **cinéfilo.**
+  - 🎬 Frankly lover and enthusiast about cinema, **completely a movie buff.**
+
+- 🎶 **Disfruto de la música**, no puedo programar sin ella.
+  - **🎶 **Music enjoyer**, I can't program without it.
+
 
   <h3>cine y música / cinema and music</h3>
   <a href = "https://letterboxd.com/jonathanspr07/">
@@ -80,7 +74,7 @@
   
   <a href = "https://www.instagram.com/jona07_07/">
   <img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt = "Instagram"></a>
-  
+
 
 </b></br>
 
