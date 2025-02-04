@@ -1,9 +1,4 @@
 <!-- ### <div align="center" ><< <em>Jona</em> >></div> -->
-<h3> - estadísticas publicas / public statistics - </h3>
-<div align="center">
-    <img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jona0707&layout=compact">
-</div>
-<h3> - habilidades / skills - </h3>
 <div align="center">
     <table>
         <tr>
@@ -49,9 +44,9 @@
                 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
             </td>
         </tr>
-    </table>
-</div>
-<h3> - acerca de mí / about me - </h3>
+        <tr>
+          <td>
+          <h4> acerca de mí / about me </h4>
 
 💻 Estudiando Ingeniería en TI en la **Escuela Politécnica Nacional.** / Studying IT Engineering at **Escuela Politécnica Nacional.**
 
@@ -60,20 +55,17 @@
 🎬 Amante y entusiasta del cine, **cinéfilo.** / Lover and enthusiast of cinema, **completely a movie buff.**
 
 🎶 **Disfruto de la música**, no puedo programar sin ella / **Music enjoyer**, I can't program without it.
+          </td>
+          <td>
+<img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jona0707&layout=donut-vertical">
+          </td>
+        </tr>
+    </table>
+</div>
+
 
 <h4>cine y música / cinema and music</h4>
 <a href="https://letterboxd.com/jonathanspr07/">
 <img src="http://img.shields.io/badge/Letterboxd-009337?style=for-the-badge&logo=Letterboxd&logoColor=white" alt="Letterboxd"></a>
 <a href="https://open.spotify.com/user/12176241821?si=ef78df9800b743ef">
 <img src="https://img.shields.io/badge/Spotify-009337?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-
-<h3>- puedes encontrarme en / you can find me on -</h3>
-<a href="https://www.linkedin.com/in/jonathan-puente-07p/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:jona07072000@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.instagram.com/jona07_07/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-
-
-</b></br>
