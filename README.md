@@ -13,6 +13,8 @@
                 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
                 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
                 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+                </br>
+                </br>
             </td>
             <td>
                 <h4>bases de datos / databases</h4>
@@ -21,6 +23,8 @@
                 <img src="https://img.shields.io/badge/mongodb-%2355ad47.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
                 <img src="https://img.shields.io/badge/mongoose-%238c0808.svg?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
                 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL">
+                </br>
+                </br>
             </td>
         </tr>
         <tr>
@@ -32,6 +36,8 @@
                 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
                 <img src="https://img.shields.io/badge/astro-%23421689.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
                 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express">
+                </br>
+                </br>
             </td>
             <td>
                 <h4>otros / others</h4>
@@ -42,6 +48,8 @@
                 <img src="https://img.shields.io/badge/MATLAB-%23cb6015?style=for-the-badge&logo=MATLAB&logoColor=white&labelColor=%230376a7" alt="Matlab">
                 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
                 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
+                </br>
+                </br>
             </td>
         </tr>
         <tr>
@@ -55,17 +63,23 @@
 🎬 Amante y entusiasta del cine, **cinéfilo.** / Lover and enthusiast of cinema, **completely a movie buff.**
 
 🎶 **Disfruto de la música**, no puedo programar sin ella / **Music enjoyer**, I can't program without it.
-          </td>
-          <td>
-<img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jona0707&layout=donut-vertical">
-          </td>
-        </tr>
-    </table>
-</div>
-
-
 <h4>cine y música / cinema and music</h4>
 <a href="https://letterboxd.com/jonathanspr07/">
 <img src="http://img.shields.io/badge/Letterboxd-009337?style=for-the-badge&logo=Letterboxd&logoColor=white" alt="Letterboxd"></a>
 <a href="https://open.spotify.com/user/12176241821?si=ef78df9800b743ef">
 <img src="https://img.shields.io/badge/Spotify-009337?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
+</br>
+                </br>
+          </td>
+          <td>
+          </br>
+                </br>
+                <div align="center">
+<img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jona0707&layout=donut-vertical">
+</div>
+</br>
+                </br>
+          </td>
+        </tr>
+    </table>
+</div>
