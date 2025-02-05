@@ -2,7 +2,7 @@
 <div align="center">
     <table>
         <tr>
-            <td>
+            <td align="center">
                 <h4>lenguajes / languages</h4>
                 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
                 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
@@ -16,7 +16,7 @@
                 </br>
                 </br>
             </td>
-            <td>
+            <td align="center">
                 <h4>bases de datos / databases</h4>
                 <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
                 <img src="https://img.shields.io/badge/sequelize-%2308b3eb.svg?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
@@ -28,7 +28,7 @@
             </td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <h4>frameworks</h4>
                 <img src="https://img.shields.io/badge/react-%231b2025.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
                 <img src="https://img.shields.io/badge/material%20ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI">
@@ -39,7 +39,7 @@
                 </br>
                 </br>
             </td>
-            <td>
+            <td align="center">
                 <h4>otros / others</h4>
                 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
                 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
@@ -53,7 +53,7 @@
             </td>
         </tr>
         <tr>
-          <td>
+          <td align="center">
           <h4> acerca de mí / about me </h4>
 
 💻 Estudiando Ingeniería en TI en la **Escuela Politécnica Nacional.** / Studying IT Engineering at **Escuela Politécnica Nacional.**
