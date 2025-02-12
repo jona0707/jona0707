@@ -58,7 +58,7 @@
 
 💻 Estudiando Ingeniería en TI en la **Escuela Politécnica Nacional.** / Studying IT Engineering at **Escuela Politécnica Nacional.**
 
-🔭 **Desarrollador de software** en InitGrammers / **Software developer** at InitGrammers.
+🔭 **Pasante de desarrollo de software** en InitGrammers / **Software developer intern** at InitGrammers.
 
 🎬 Amante y entusiasta del cine, **cinéfilo.** / Lover and enthusiast of cinema, **completely a movie buff.**
 
